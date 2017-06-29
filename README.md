@@ -1,6 +1,4 @@
-### Book List Tutorial - Understanding Redux Basics
-
-# ReduxSimpleStarter
+# ReduxSimpleStarter-Book-List-Tutorial
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
